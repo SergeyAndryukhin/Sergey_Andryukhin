@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeyAndryukhin.
 - 👀 I’m interested in studying IT technologies and work in this area.
-- 🌱 I’m currently learning frontend technologies.
+- 🌱 I’m currently learning backend technologies.
 - 💞️ I’m looking to collaborate on ...
  
 - 📫 How to reach me:
